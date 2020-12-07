@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wldbs0507@kaist.ac.kr
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![di-uni's github stats](https://github-readme-stats.vercel.app/api?username=di-uni&show_icons=true)
 -->
 
 
@@ -20,5 +22,14 @@ Here are some ideas to get you started:
 
 
 
+#### Languages :
+C
+C++
+Python
+Verilog
 
-![di-uni's github stats](https://github-readme-stats.vercel.app/api?username=di-uni&show_icons=true)
+
+#### Tools :
+Android Studio
+Flutter
+Unity
