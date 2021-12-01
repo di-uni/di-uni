@@ -19,17 +19,18 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning EE/ID in KAIST
-
+- 📫 How to reach me: jiyunp57@gmail.com
 
 
 #### Languages :
 C
 C++
 Python
+Javascript
 Verilog
 
 
 #### Tools :
-Android Studio
 Flutter
+React js
 Unity
