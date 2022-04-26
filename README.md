@@ -17,20 +17,17 @@ Here are some ideas to get you started:
 ![di-uni's github stats](https://github-readme-stats.vercel.app/api?username=di-uni&show_icons=true)
 -->
 
+<br/>
 
-- 🌱 I’m currently learning EE/ID in KAIST
+- 🌱 I’m currently learning EE/ID in KAIST      
 - 📫 How to reach me: jiyunp57@gmail.com
 
+<br/>
 
-#### Languages :
-C
-C++
-Python
-Javascript
-Verilog
-
-
-#### Tools :
-Flutter
-React js
-Unity
+### Skill Set 👩‍💻
+- Programing Languages:     C, C++, Javascript, Python     
+- Framework/ Library:       Reactjs, Flutter, Unity, Nodejs     
+- Tooling/ DevOps:          Git   
+- Environment:              Linux       
+- ETC:                      Notion, Figma, Firebase    
+    
