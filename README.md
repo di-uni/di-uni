@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![di-uni's github stats](https://github-readme-stats.vercel.app/api?username=di-uni&show_icons=true)
 -->
 
-- 🌱 I’m currently interested in FE
+<!-- - 🌱 I’m currently interested in FE
 - 📫 How to reach me: jiyunp57@gmail.com
 
 <br/>
@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 - Environment:              Linux       
 - ETC:                      Notion, Figma, Firebase    
     
+ -->
